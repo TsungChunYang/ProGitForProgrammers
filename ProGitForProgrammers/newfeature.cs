@@ -8,5 +8,6 @@ namespace ProGitForProgrammers
 {
     internal class newfeature
     {
+        public string name { get; set; }
     }
 }
