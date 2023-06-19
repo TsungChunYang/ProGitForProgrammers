@@ -25,5 +25,7 @@ namespace ProGitForProgrammers
             get;
             set; 
         }
+
+        public string Name1 { get; set; }
     }
 }
